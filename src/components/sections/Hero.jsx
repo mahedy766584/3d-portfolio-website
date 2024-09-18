@@ -162,7 +162,7 @@ const ResumeButton = styled.a`
   font-weight: 600;
   font-size: 20px;
 
-     &:hover {
+    &:hover {
         transform: scale(1.05);
     transition: all 0.4s ease-in-out;
     box-shadow:  20px 20px 60px #1F2634,
